@@ -1,0 +1,6 @@
+# Questo progetto si basa principalmente sui bindings Python per GTK/Vte (python3-gi).
+# Assicurarsi che le dipendenze di sistema siano installate (vedi 'gir1.2-gtk-3.0' e 'gir1.2-vte-2.91').
+# Se si utilizzano altre librerie PyPI, listarle qui sotto:
+
+# Esempio:
+# requests==2.31.0
